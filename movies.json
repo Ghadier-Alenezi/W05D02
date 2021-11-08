@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "name": "how to lose a guy in 10 days",
+    "isFav": true,
+    "isDeleted": false
+},
+{
+    "id": 2,
+    "name": "Dune",
+    "isFav": true,
+    "isDeleted": false
+},
+{
+    "id": 3,
+    "name": "The Hill",
+    "isFav": true,
+    "isDeleted": false
+}
+]
